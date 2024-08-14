@@ -14,9 +14,6 @@ body{
     min-height: 100vh;
     line-height: 1.5;
 }
-.main{
-    height:48rem;
-}
 img{
     max-width: 100%;
     display: block;
@@ -39,6 +36,9 @@ body{
   font-family: "Red Hat Display", sans-serif;
   background-image: url(images/pattern-background-desktop.svg);
   background-repeat: repeat-x;
+}
+.main{
+    height: 48rem;
 }
 .card{
   margin: 7% auto; 
