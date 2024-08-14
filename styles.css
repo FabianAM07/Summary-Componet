@@ -13,7 +13,10 @@ html{
 body{
     min-height: 100vh;
     line-height: 1.5;
-}  
+}
+.main{
+    height:48rem;
+}
 img{
     max-width: 100%;
     display: block;
